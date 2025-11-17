@@ -26,10 +26,9 @@ The model weights will be automatically downloaded on first use.
 
 Usage
 
-Add LiteTracker: Load Model to load the tracking model
-Add LiteTracker: Grid Editor to define tracking regions on your input image
-Add LiteTracker: Track to process your video sequence
-See the original LiteTracker repository for details on the underlying algorithm.
+![workflow](example_workflows/lite-tracker-workflow.png)
+
+Drag and drop this image into ComfyUI and move the video and mask files to ComfyUI/input
 
 
 # Acknowledgements
@@ -38,6 +37,7 @@ Special thanks to the authors of CoTracker3, MFT, STIR Challenge, and SuPer Fram
 
 Please cite their work if you use LiteTracker in your research:
 
+```
 @inproceedings{karaoglu2025litetracker,
   title={LiteTracker: Leveraging Temporal Causality for Accurate Low-Latency Tissue Tracking},
   author={Karaoglu, Mert Asim and Ji, Wenbo and Abbas, Ahmed and Navab, Nassir and Busam, Benjamin and Ladikos, Alexander},
@@ -46,7 +46,7 @@ Please cite their work if you use LiteTracker in your research:
   year={2025},
   organization={Springer}
 }
-
+```
 
 Adapted from:
 Original model and research: ImFusionGmbH/lite-tracker
