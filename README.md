@@ -18,7 +18,8 @@ This implementation wraps the original [ImFusionGmbH/lite-tracker](https://githu
 
 ```
 cd ComfyUI/custom_nodes/
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/fuselayer/comfyui-lite-tracker.git
+pip install -r requirements.txt
 Restart ComfyUI
 The model weights will be automatically downloaded on first use.
 ```
