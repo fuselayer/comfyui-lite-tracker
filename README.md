@@ -1,5 +1,3 @@
-Markdown
-
 # ComfyUI LiteTracker
 
 ComfyUI custom nodes for **LiteTracker**, a fast and efficient point tracking model for videos.
