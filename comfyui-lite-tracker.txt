@@ -1,0 +1,53 @@
+﻿```
+C:.
+|   __init__.py
+|   comfyui-lite-tracker.txt
+|   CSDH.bat
+|   CSDH_script.ps1
+|   nodes_lite_tracker.py
+|   nodes_rect_editor.py
+|   probe_litetracker.py
++---__pycache__
++---results
+|       litetracker_1763078682.mp4
+|       litetracker_1763079207.mp4
+|       litetracker_1763081528.mp4
+|       litetracker_1763083814.mp4
+|       litetracker_1763084127.mp4
+|       litetracker_1763084170.mp4
+|       litetracker_1763085183.mp4
+|       litetracker_1763085869.mp4
+|       litetracker_1763086876.mp4
+|       litetracker_1763088429.mp4
+|       litetracker_1763088726.mp4
+|       litetracker_1763088808.mp4
+|       litetracker_1763089672.mp4
+|       litetracker_1763097366.mp4
+|       litetracker_1763097427.mp4
+|       litetracker_1763097456.mp4
+|       litetracker_1763097636.mp4
+|       litetracker_1763099163.mp4
+|       litetracker_1763104101.mp4
+|       litetracker_1763105461.mp4
+|       litetracker_1763106974.mp4
+|       litetracker_1763111616.mp4
+|       litetracker_1763111907.mp4
+|       litetracker_1763112250.mp4
+|       litetracker_1763113216.mp4
+|       litetracker_1763114246.mp4
+|       litetracker_1763114456.mp4
+|       litetracker_1763115159.mp4
++---src
+|       __init__.py
+|       execution_timer.py
+|       lite_tracker.py
+|       model_blocks.py
+|       model_utils.py
+|       visualizer.py
+|   \---__pycache__
++---web
+|       rect_editor.js
+\---weights
+        scaled_online.pth
+```
+

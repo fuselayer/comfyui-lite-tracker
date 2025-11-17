@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# ComfyUI custom node specific
+results/
+
+# Temp/cache
+temp/
+*.tmp
+*.part
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dev/testing scripts 
+CSDH*.bat
+CSDH*.ps1
+probe_*.py
