@@ -19,15 +19,16 @@ cd ComfyUI/custom_nodes/
 git clone https://github.com/fuselayer/comfyui-lite-tracker.git
 pip install -r requirements.txt
 ```
-Restart ComfyUI
-The model weights will be automatically downloaded on first use.
+2. Restart ComfyUI
 
 
 Usage
 
+Drag and drop this image into ComfyUI and move the video and mask files to ComfyUI/input:
+
 ![workflow](example_workflows/lite-tracker-workflow.png)
 
-Drag and drop this image into ComfyUI and move the video and mask files to ComfyUI/input
+
 
 
 # Acknowledgements
